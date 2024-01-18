@@ -10,8 +10,7 @@ export default function HeroSection(){
                     </p>
                     
                     {<Typed strings={[
-                        "Ingeniero Electrónico",
-                        "Jr. DevOps Engineer",
+                        "Ingeniero Electrónico"
                     ]}
                     typeSpeed={100}
                     backSpeed={50}
