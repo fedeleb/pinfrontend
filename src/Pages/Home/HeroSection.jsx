@@ -10,7 +10,7 @@ export default function HeroSection(){
                     </p>
                     
                     {<Typed strings={[
-                        "Ingeniero Electrónico"
+                        "Ingeniero Electrónico Jr."
                     ]}
                     typeSpeed={100}
                     backSpeed={50}
@@ -24,7 +24,7 @@ export default function HeroSection(){
                         Con experiencia en administración de servidores y diseño de electrónica analógica y digital.
                         <br />
                         <br />
-                        Proactivo, nerd apasionado del mundo de la tecnología
+                        Nerd apasionado del mundo de la tecnología
                     </p>
                 </div>
                     
