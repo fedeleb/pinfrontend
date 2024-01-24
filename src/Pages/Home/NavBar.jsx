@@ -35,10 +35,10 @@ function NavBar(){
             <div>
                 <img src="./img/logo.svg" alt="logoipsum" />
             </div>
-            <a className={`nav__hamburguer ${navActive ? "active" : ""}`} onClick={toggleNav}>
-                <span className="nav__hamburguer__line"></span>
-                <span className="nav__hamburguer__line"></span>
-                <span className="nav__hamburguer__line"></span>
+            <a className={`nav__hamburger ${navActive ? "active" : ""}`} onClick={toggleNav}>
+                <span className="nav__hamburger__line"></span>
+                <span className="nav__hamburger__line"></span>
+                <span className="nav__hamburger__line"></span>
             </a>
             <div className={`navbar--items ${navActive ? "active" : ""}`}>
             <ul>
