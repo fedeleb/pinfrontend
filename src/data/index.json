@@ -28,27 +28,34 @@
     "portfolio":[
         {
             "id":"1",
+            "src":"./img/ambiente.jpg",
+            "title":"Evaluador de Impacto Ambiental (SEAyDS - Gobierno de San Juan) Febrero 2024 - Actualidad",
+            "description":"Actualmente me desempeño como Evaluador dentro de la Secretaría de Estado de Ambiente y Desarrollo Sustentable del Gobierno de la Provincia de San Juan. Mi responsabilidad es controlar y velar por el cumplimiento de las leyes provinciales N° 504-L (Evaluación de impacto ambiental) y 522-L (Gestión de Residuos Peligrosos). Como Ingeniero Electrónico, me enfoco principalmente a la evaluación de proyectos de Antenas de telefonía movil, y Tendido de redes eléctricas de Media y Alta tensión",
+            "link":""
+        },
+        {
+            "id":"2",
             "src":"./img/logo_iquall_networks.png",
             "title":"Operations Engineer (Iquall Networks) Septiembre 2022 - Noviembre 2023",
             "description":"Pertenecí al equipo de TechOps, dentro del área de Ingeniería, y luego al squad de Estabilidad Operativa dentro de Operaciones de experiencia de Usuario. Mi función fue desplegar nuevas instalaciones de los productos de la compañia en servidores Bare-metal y Cloud de clientes de compañias multinacionales de telecomunicaciones, mediante el uso de tecnologías asociadas a la filosofía DevOps. Además, di soporte de nivel 2 a clientes, asegurando el cumplimiento del SLA contratado por los mismos",
             "link":""
         },
         {
-            "id":"2",
+            "id":"3",
             "src":"./img/logounsj.jpg",
             "title":"Auxiliar Docente (Facultad de Ingeniería - UNSJ) Septiembre 2021 - Junio 2023.",
             "description":"Fui ayudante de las cátedras Electrónica Digital 3, Control 3 y Sistemas para Control pertenecientes a la carrera de Ingeniería Electrónica, y de Sistemas Digitales 2 de Bioingeniería. Entre las tareas asignadas a mi labor docente, se encontraban: la coordinación y asistencia durante trabajos prácticos de laboratorio, dictado de clases de consulta y toma de evaluaciones parciales.",
             "link":""
         },
         {
-            "id":"3",
+            "id":"4",
             "src":"./img/salvavidas.jpg",
             "title":"Becario de Investigación (UNSJ) Diciembre 2021 - Diciembre 2022. Diseño, construcción y prueba de un salvavidas eléctrico a control remoto",
             "description":"En el marco de un convenio establecido entre la UNSJ con Seguridad Nautica, perteneciente a la Secretaría de Deportes del Gobierno de la Provincia de San Juan, y como parte de mi trabajo final de grado, se llevó a cabo el diseño, construcción y prueba de un Salvavidas eléctrico a Control Remoto. El objetivo principal de este proyecto, atendiendo a las dificultades socioeconómicas presentes dentro del contexto Argentino, fue la construcción de un prototipo de bajo costo, y altamente funcional, en comparación a equipos similares disponibles comercialmente, siendo de más de 10 veces inferior el costo de producción respecto a la compra de un salvavidas eléctrico comercial.",
             "link":""
         },
         {
-            "id":"4",
+            "id":"5",
             "src":"./img/aglogo.png",
             "title":"Pasante técnico (AG Electrónica) Noviembre 2021 - Febrero 2022 ",
             "description":"Práctica Profesional Supervisada de mi carrera de Ingeniería Electrónica. Mis funciones dentro de la compañia consistian en el armado, soldado, prueba y empaquetado final de PCBs diseñados para electricidad industrial y domiciliaria. Aprendí a dominar la tecnica de soldado por ola, es decir mediante batea de estaño, y a calibrar dispositivos RF de dimensiones mínimas.",
